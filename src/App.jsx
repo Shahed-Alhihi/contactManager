@@ -152,7 +152,7 @@
 import { useState,useEffect } from "react";
 import PeopleForm from "./PeopleForm";
 import PeopleList from "./PeopleList";
-import Digimon from "./Digimon";
+import Digimon from "./Digimon"
 
 function App() {
   const [people, setPeople] = useState([]);
